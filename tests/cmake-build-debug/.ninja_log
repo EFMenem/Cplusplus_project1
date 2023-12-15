@@ -1,0 +1,20 @@
+# ninja log v5
+10	374	1695771205031418968	CMakeFiles/Google_Tests_run.dir/Users/efmenem/Desktop/informatica/1ER_AÑO/Algo2/TPS/TP1/src/Vector.cpp.o	feb18962135924cb
+13	550	1695768844311235658	CMakeFiles/Google_Tests_run.dir/Users/efmenem/Desktop/informatica/1ER_AÑO/Algo2/TPS/TP1/src/Item.cpp.o	920f5b7ed929051c
+1	121	1695944173722836868	build.ninja	10d22abd913db209
+2	1722	1695486968990217345	lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	8509783a407271eb
+2	530	1695486967803851164	lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	e0094f4e91487abc
+25	548	1695769114835474653	CMakeFiles/Google_Tests_run.dir/VectorTests.cpp.o	572e4e9a8c841db0
+1723	1828	1695486969105670000	lib/libgtest.a	71f2987a9baf0841
+1828	1847	1695486969124939000	lib/libgtest_main.a	2f3c80d29903c68d
+374	429	1695771205090581486	Google_Tests_run	fd4210acc4a7def7
+14	555	1695768844318505822	CMakeFiles/Google_Tests_run.dir/Users/efmenem/Desktop/informatica/1ER_AÑO/Algo2/TPS/TP1/main.cpp.o	6767e29f799f7d39
+10	346	1695944192562288532	CMakeFiles/Google_Tests_run.dir/Users/efmenem/Desktop/informatica/1ER_AÑO/Algo2/TPS/TP1/src/Vector.cpp.o	feb18962135924cb
+10	421	1695944192637034053	CMakeFiles/Google_Tests_run.dir/Users/efmenem/Desktop/informatica/1ER_AÑO/Algo2/TPS/TP1/src/Item.cpp.o	920f5b7ed929051c
+10	468	1695944192686185541	CMakeFiles/Google_Tests_run.dir/Users/efmenem/Desktop/informatica/1ER_AÑO/Algo2/TPS/TP1/src/Inventario.cpp.o	79da05f4492e160
+9	600	1695944192817773244	CMakeFiles/Google_Tests_run.dir/VectorTests.cpp.o	572e4e9a8c841db0
+600	658	1695944192878690542	Google_Tests_run	eb120bf985504aae
+9	570	1695944307456240860	lib/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	830f2d67ebfdd283
+9	941	1695944307825246393	lib/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	dcb0eff9c24673b9
+941	1032	1695944307922020000	lib/libgmock.a	b3d8356939c1ebb6
+1032	1050	1695944307940090000	lib/libgmock_main.a	fdbb692a1acd8b15

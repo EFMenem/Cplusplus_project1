@@ -1,0 +1,36 @@
+# ninja log v5
+14	750	1697675781480423720	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1efd04d38b20322
+5	767	1697675659763065085	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Inventario.cpp.o	59231c9108ffdb6c
+752	939	1697675781669157811	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/programa.exe	3ae03e723ecf4615
+0	101	1702657825280482197	build.ninja	d8f1847cdbe357d
+5	702	1697573314320671471	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Item.cpp.o	63cc4c4f20a7cb20
+5	754	1697675659751494050	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/main.cpp.o	ea79e8d1276f2904
+5	783	1702657845921166828	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Item.cpp.o	e8886c104c7db913
+6	799	1702657845936797136	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/main.cpp.o	345c9abfb36677f0
+6	808	1702657845946009611	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1230fef81fabe89f
+6	827	1702657845965319275	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Inventario.cpp.o	985ddd5565fdeda4
+827	869	1702657846009395264	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/Cplusplus_project1/programa.exe	d8f990669961e15f
+6	746	1702658111120767299	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1230fef81fabe89f
+5	716	1702658138001964871	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/main.cpp.o	345c9abfb36677f0
+716	917	1702658138205074327	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/Cplusplus_project1/programa.exe	d8f990669961e15f
+6	734	1702658359900156840	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1230fef81fabe89f
+735	776	1702658359942827153	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/Cplusplus_project1/programa.exe	d8f990669961e15f
+7	762	1702658431881462063	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1230fef81fabe89f
+763	806	1702658431927892774	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/Cplusplus_project1/programa.exe	d8f990669961e15f
+4	552	1702658440350383453	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1230fef81fabe89f
+552	594	1702658440392720764	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/Cplusplus_project1/programa.exe	d8f990669961e15f
+6	742	1702658480410800318	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1230fef81fabe89f
+742	786	1702658480456565358	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/Cplusplus_project1/programa.exe	d8f990669961e15f
+5	735	1702658543093540092	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1230fef81fabe89f
+736	780	1702658543139704718	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/Cplusplus_project1/programa.exe	d8f990669961e15f
+7	703	1702659027187294727	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1230fef81fabe89f
+10	726	1702659071467200662	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/main.cpp.o	345c9abfb36677f0
+727	920	1702659071660749414	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/Cplusplus_project1/programa.exe	d8f990669961e15f
+8	747	1702659120776038174	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1230fef81fabe89f
+749	793	1702659120824446081	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/Cplusplus_project1/programa.exe	d8f990669961e15f
+6	737	1702659167947322598	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1230fef81fabe89f
+737	782	1702659167994191083	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/Cplusplus_project1/programa.exe	d8f990669961e15f
+6	772	1702659258838854936	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1230fef81fabe89f
+774	817	1702659258885687963	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/Cplusplus_project1/programa.exe	d8f990669961e15f
+17	774	1702659277138501613	CMakeFiles/ayp2_plantilla_tp1_2c2023.dir/src/Menu.cpp.o	1230fef81fabe89f
+775	818	1702659277184526221	/Users/efmenem/Desktop/informatica/1ER AÑO/Algo2/TPS/TP1/Cplusplus_project1/programa.exe	d8f990669961e15f
